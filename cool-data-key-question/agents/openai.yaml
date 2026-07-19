@@ -1,0 +1,4 @@
+interface:
+  display_name: "핵심 질문"
+  short_description: "의사결정에 연결된 핵심 질문을 명확히 정의합니다."
+  default_prompt: "비즈니스 문제를 핵심 질문으로 정리해줘"

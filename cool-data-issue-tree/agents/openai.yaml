@@ -1,0 +1,4 @@
+interface:
+  display_name: "이슈 트리"
+  short_description: "MECE 이슈 트리를 구조화하고 HTML로 시각화합니다."
+  default_prompt: "Use $cool-data-issue-tree to structure this problem as a MECE tree and show it as an interactive visual."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "데이터 분석"
+  short_description: "전처리와 원인 분석을 재현 가능하게 수행합니다."
+  default_prompt: "전환율 하락 데이터를 분석해줘"

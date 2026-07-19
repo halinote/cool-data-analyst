@@ -1,0 +1,4 @@
+interface:
+  display_name: "비즈니스 프레이밍"
+  short_description: "분석의 목적과 문제상황을 의사결정 맥락으로 정의합니다."
+  default_prompt: "우리의 비즈니스 목표와 문제상황을 분석용으로 정리해줘"

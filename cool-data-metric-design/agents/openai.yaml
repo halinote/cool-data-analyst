@@ -1,0 +1,4 @@
+interface:
+  display_name: "지표 설계"
+  short_description: "지표 선택지와 재현 가능한 계산식을 설계합니다."
+  default_prompt: "전환율 지표를 어떻게 정의해야 할까?"

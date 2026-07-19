@@ -1,0 +1,4 @@
+interface:
+  display_name: "분석 스토리라인"
+  short_description: "정확한 차트와 실행 스토리로 분석 결과를 전달합니다."
+  default_prompt: "분석 결과를 임원용 PPT로 만들어줘"

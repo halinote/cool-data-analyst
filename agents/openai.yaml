@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cool Data Analyst"
+  short_description: "의사결정과 궁금한 질문에서 분석 경로를 정합니다."
+  default_prompt: "Use $cool-data-analyst to identify my decision context and initial analytical question, then route me to the right analysis skill."
