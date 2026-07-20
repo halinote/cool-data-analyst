@@ -50,3 +50,17 @@ A collection of focused business-analysis skills, rather than one rigid end-to-e
 In a cold start with data but no stated purpose, the router asks for both the decision to change and the user's current analytical curiosity in one intake. Either answer is enough. A rough question seed routes directly to `cool-data-key-question` for refinement instead of forcing business framing first.
 
 `cool-data-issue-tree` renders every completed tree as responsive interactive HTML while retaining ownership of the MECE logic, node structure, and leaf-level analytical questions. The shared `visualize` skill remains the rendering mechanism rather than a separate analysis stage.
+
+---
+
+## Claude (Claude Code / Cowork)
+
+This repo also ships a Claude plugin marketplace under `.claude-plugin/` and
+`plugins/cool-data-analyst/`, packaging the same six skills for Claude Code
+and Cowork (Codex-only `agents/openai.yaml` files are excluded from the
+Claude package).
+
+```
+/plugin marketplace add halinote/cool-data-analyst
+/plugin install cool-data-analyst@cool-data-analyst-marketplace
+```

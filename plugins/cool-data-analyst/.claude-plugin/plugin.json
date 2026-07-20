@@ -1,0 +1,9 @@
+{
+  "name": "cool-data-analyst",
+  "version": "0.1.0",
+  "description": "Decision-oriented business and data analysis skill set: business framing, analytical Key Question, MECE issue tree, metric design, data analysis, and visualization/storyline, with a router skill that picks the right one.",
+  "author": {
+    "name": "halinote"
+  },
+  "keywords": ["data-analysis", "business-analysis", "mece", "metrics", "storyline"]
+}
